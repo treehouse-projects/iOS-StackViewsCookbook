@@ -14,6 +14,7 @@
 		97FBE133203343DA00F9EF3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97FBE131203343DA00F9EF3D /* LaunchScreen.storyboard */; };
 		97FBE13B2033506D00F9EF3D /* SimpleStackViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97FBE13A2033506D00F9EF3D /* SimpleStackViews.storyboard */; };
 		97FBE13D20336F9F00F9EF3D /* SimpleStackViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97FBE13C20336F9F00F9EF3D /* SimpleStackViews.swift */; };
+		97FBE13F2033746B00F9EF3D /* NestedStackViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97FBE13E2033746A00F9EF3D /* NestedStackViews.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		97FBE134203343DA00F9EF3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97FBE13A2033506D00F9EF3D /* SimpleStackViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SimpleStackViews.storyboard; sourceTree = "<group>"; };
 		97FBE13C20336F9F00F9EF3D /* SimpleStackViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleStackViews.swift; sourceTree = "<group>"; };
+		97FBE13E2033746A00F9EF3D /* NestedStackViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = NestedStackViews.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				97FBE134203343DA00F9EF3D /* Info.plist */,
 				97FBE13A2033506D00F9EF3D /* SimpleStackViews.storyboard */,
 				97FBE13C20336F9F00F9EF3D /* SimpleStackViews.swift */,
+				97FBE13E2033746A00F9EF3D /* NestedStackViews.storyboard */,
 			);
 			path = StackViewsCookbook;
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 				97FBE133203343DA00F9EF3D /* LaunchScreen.storyboard in Resources */,
 				97FBE130203343DA00F9EF3D /* Assets.xcassets in Resources */,
 				97FBE12E203343DA00F9EF3D /* Main.storyboard in Resources */,
+				97FBE13F2033746B00F9EF3D /* NestedStackViews.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
