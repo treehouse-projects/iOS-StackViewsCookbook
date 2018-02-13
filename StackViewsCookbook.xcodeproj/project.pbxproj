@@ -13,6 +13,7 @@
 		97FBE130203343DA00F9EF3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97FBE12F203343DA00F9EF3D /* Assets.xcassets */; };
 		97FBE133203343DA00F9EF3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97FBE131203343DA00F9EF3D /* LaunchScreen.storyboard */; };
 		97FBE13B2033506D00F9EF3D /* SimpleStackViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97FBE13A2033506D00F9EF3D /* SimpleStackViews.storyboard */; };
+		97FBE13D20336F9F00F9EF3D /* SimpleStackViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97FBE13C20336F9F00F9EF3D /* SimpleStackViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		97FBE132203343DA00F9EF3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		97FBE134203343DA00F9EF3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97FBE13A2033506D00F9EF3D /* SimpleStackViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SimpleStackViews.storyboard; sourceTree = "<group>"; };
+		97FBE13C20336F9F00F9EF3D /* SimpleStackViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleStackViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				97FBE131203343DA00F9EF3D /* LaunchScreen.storyboard */,
 				97FBE134203343DA00F9EF3D /* Info.plist */,
 				97FBE13A2033506D00F9EF3D /* SimpleStackViews.storyboard */,
+				97FBE13C20336F9F00F9EF3D /* SimpleStackViews.swift */,
 			);
 			path = StackViewsCookbook;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				97FBE12B203343DA00F9EF3D /* ViewController.swift in Sources */,
 				97FBE129203343DA00F9EF3D /* AppDelegate.swift in Sources */,
+				97FBE13D20336F9F00F9EF3D /* SimpleStackViews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
